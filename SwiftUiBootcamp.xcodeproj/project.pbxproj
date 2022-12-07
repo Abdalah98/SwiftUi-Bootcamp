@@ -19,6 +19,7 @@
 		B2B7F2F0293F466100BC1F3B /* ImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2B7F2EF293F466100BC1F3B /* ImageBootcamp.swift */; };
 		B2B7F2F2293F4FBF00BC1F3B /* FramesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2B7F2F1293F4FBF00BC1F3B /* FramesBootcamp.swift */; };
 		B2B7F2F4293F5D3B00BC1F3B /* BackgroundsAndOverlaysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2B7F2F3293F5D3B00BC1F3B /* BackgroundsAndOverlaysBootcamp.swift */; };
+		B2CA57A729407C3500519D08 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2CA57A629407C3500519D08 /* StacksBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		B2B7F2EF293F466100BC1F3B /* ImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootcamp.swift; sourceTree = "<group>"; };
 		B2B7F2F1293F4FBF00BC1F3B /* FramesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FramesBootcamp.swift; sourceTree = "<group>"; };
 		B2B7F2F3293F5D3B00BC1F3B /* BackgroundsAndOverlaysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundsAndOverlaysBootcamp.swift; sourceTree = "<group>"; };
+		B2CA57A629407C3500519D08 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 				B2B7F2EF293F466100BC1F3B /* ImageBootcamp.swift */,
 				B2B7F2F1293F4FBF00BC1F3B /* FramesBootcamp.swift */,
 				B2B7F2F3293F5D3B00BC1F3B /* BackgroundsAndOverlaysBootcamp.swift */,
+				B2CA57A629407C3500519D08 /* StacksBootcamp.swift */,
 				B2B7F2DB293F238D00BC1F3B /* Assets.xcassets */,
 				B2B7F2DD293F238D00BC1F3B /* Preview Content */,
 			);
@@ -169,6 +172,7 @@
 				B2B7F2F4293F5D3B00BC1F3B /* BackgroundsAndOverlaysBootcamp.swift in Sources */,
 				B2B7F2DA293F238B00BC1F3B /* ContentView.swift in Sources */,
 				B2B7F2E6293F23A600BC1F3B /* TextBootcamp.swift in Sources */,
+				B2CA57A729407C3500519D08 /* StacksBootcamp.swift in Sources */,
 				B2B7F2F0293F466100BC1F3B /* ImageBootcamp.swift in Sources */,
 				B2B7F2D8293F238B00BC1F3B /* SwiftUiBootcampApp.swift in Sources */,
 			);
