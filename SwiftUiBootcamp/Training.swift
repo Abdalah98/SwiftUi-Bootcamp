@@ -42,7 +42,6 @@ struct Training: View {
             Circle()
               .fill(.green)
               .frame(width: 80,height: 80)
-            
           }
         }
     }
