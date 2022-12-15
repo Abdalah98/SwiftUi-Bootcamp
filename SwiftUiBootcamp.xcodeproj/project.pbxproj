@@ -48,6 +48,8 @@
 		B2BFBC67294B0D0600A3D613 /* DarkModeBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2BFBC66294B0D0600A3D613 /* DarkModeBootcamp.swift */; };
 		B2BFBC69294B112100A3D613 /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2BFBC68294B112100A3D613 /* DocumentationBootcamp.swift */; };
 		B2BFBC6B294B1C3000A3D613 /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2BFBC6A294B1C3000A3D613 /* OnAppearBootcamp.swift */; };
+		B2BFBC6D294B1FCD00A3D613 /* IfLetGuardBootcamp .swift in Sources */ = {isa = PBXBuildFile; fileRef = B2BFBC6C294B1FCD00A3D613 /* IfLetGuardBootcamp .swift */; };
+		B2BFBC6F294B273600A3D613 /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2BFBC6E294B273600A3D613 /* TapGestureBootcamp.swift */; };
 		B2CA57A729407C3500519D08 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2CA57A629407C3500519D08 /* StacksBootcamp.swift */; };
 		B2CA57AB294084C200519D08 /* PaddingAndSpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2CA57AA294084C200519D08 /* PaddingAndSpacerBootcamp.swift */; };
 		B2CA57AD29408EA700519D08 /*  SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2CA57AC29408EA700519D08 /*  SpacerBootcamp.swift */; };
@@ -102,6 +104,8 @@
 		B2BFBC66294B0D0600A3D613 /* DarkModeBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DarkModeBootcamp.swift; sourceTree = "<group>"; };
 		B2BFBC68294B112100A3D613 /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 		B2BFBC6A294B1C3000A3D613 /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		B2BFBC6C294B1FCD00A3D613 /* IfLetGuardBootcamp .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "IfLetGuardBootcamp .swift"; sourceTree = "<group>"; };
+		B2BFBC6E294B273600A3D613 /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 		B2CA57A629407C3500519D08 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		B2CA57AA294084C200519D08 /* PaddingAndSpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootcamp.swift; sourceTree = "<group>"; };
 		B2CA57AC29408EA700519D08 /*  SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " SpacerBootcamp.swift"; sourceTree = "<group>"; };
@@ -191,6 +195,8 @@
 				B2BFBC66294B0D0600A3D613 /* DarkModeBootcamp.swift */,
 				B2BFBC68294B112100A3D613 /* DocumentationBootcamp.swift */,
 				B2BFBC6A294B1C3000A3D613 /* OnAppearBootcamp.swift */,
+				B2BFBC6C294B1FCD00A3D613 /* IfLetGuardBootcamp .swift */,
+				B2BFBC6E294B273600A3D613 /* TapGestureBootcamp.swift */,
 				B2B7F2DB293F238D00BC1F3B /* Assets.xcassets */,
 				B2B7F2DD293F238D00BC1F3B /* Preview Content */,
 			);
@@ -281,6 +287,7 @@
 				B2B7F2EA293F333B00BC1F3B /* ColorBootcomp.swift in Sources */,
 				B2CA57B32940AC8000519D08 /* ScrollViewBootcamp.swift in Sources */,
 				B223CAF52949C9E80028EDB3 /* StepperBootcamp.swift in Sources */,
+				B2BFBC6F294B273600A3D613 /* TapGestureBootcamp.swift in Sources */,
 				B2CA57AB294084C200519D08 /* PaddingAndSpacerBootcamp.swift in Sources */,
 				B2B7F2EE293F434700BC1F3B /* IconBootcamp.swift in Sources */,
 				B255ECCC2941F33700067198 /* TernaryOperatorsBootcamp.swift in Sources */,
@@ -323,6 +330,7 @@
 				B2CA57AD29408EA700519D08 /*  SpacerBootcamp.swift in Sources */,
 				B2B7F2D8293F238B00BC1F3B /* SwiftUiBootcampApp.swift in Sources */,
 				B255ECCA2941EB4A00067198 /* ConditionalStatementsBootcamp.swift in Sources */,
+				B2BFBC6D294B1FCD00A3D613 /* IfLetGuardBootcamp .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
