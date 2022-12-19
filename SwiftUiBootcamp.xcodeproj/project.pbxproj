@@ -40,6 +40,9 @@
 		B28238652945F6BE0012F25A /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B28238642945F6BE0012F25A /* NavigationViewBootcamp.swift */; };
 		B2866B2D295079EE0046CFE6 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2866B2C295079EE0046CFE6 /* ProfileView.swift */; };
 		B2866B2F29507ECD0046CFE6 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2866B2E29507ECD0046CFE6 /* AsyncImageBootcamp.swift */; };
+		B2866B31295083720046CFE6 /* BackgroundMaterialsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2866B30295083720046CFE6 /* BackgroundMaterialsBootcamp.swift */; };
+		B2866B33295086690046CFE6 /* TextSelectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2866B32295086690046CFE6 /* TextSelectionBootcamp.swift */; };
+		B2866B352950882E0046CFE6 /* ButtonStylesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2866B342950882E0046CFE6 /* ButtonStylesBootcamp.swift */; };
 		B2B7F2D8293F238B00BC1F3B /* SwiftUiBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2B7F2D7293F238B00BC1F3B /* SwiftUiBootcampApp.swift */; };
 		B2B7F2DA293F238B00BC1F3B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2B7F2D9293F238B00BC1F3B /* ContentView.swift */; };
 		B2B7F2DC293F238D00BC1F3B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2B7F2DB293F238D00BC1F3B /* Assets.xcassets */; };
@@ -103,6 +106,9 @@
 		B28238642945F6BE0012F25A /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		B2866B2C295079EE0046CFE6 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		B2866B2E29507ECD0046CFE6 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
+		B2866B30295083720046CFE6 /* BackgroundMaterialsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsBootcamp.swift; sourceTree = "<group>"; };
+		B2866B32295086690046CFE6 /* TextSelectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBootcamp.swift; sourceTree = "<group>"; };
+		B2866B342950882E0046CFE6 /* ButtonStylesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStylesBootcamp.swift; sourceTree = "<group>"; };
 		B2B7F2D4293F238B00BC1F3B /* SwiftUiBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUiBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2B7F2D7293F238B00BC1F3B /* SwiftUiBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUiBootcampApp.swift; sourceTree = "<group>"; };
 		B2B7F2D9293F238B00BC1F3B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -229,6 +235,9 @@
 				B26A249B294F47AF003D49F7 /* AppStorageBootcamp.swift */,
 				B26A249D294F4D54003D49F7 /* Onboarding */,
 				B2866B2E29507ECD0046CFE6 /* AsyncImageBootcamp.swift */,
+				B2866B30295083720046CFE6 /* BackgroundMaterialsBootcamp.swift */,
+				B2866B32295086690046CFE6 /* TextSelectionBootcamp.swift */,
+				B2866B342950882E0046CFE6 /* ButtonStylesBootcamp.swift */,
 				B2B7F2DB293F238D00BC1F3B /* Assets.xcassets */,
 				B2B7F2DD293F238D00BC1F3B /* Preview Content */,
 			);
@@ -313,6 +322,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2866B31295083720046CFE6 /* BackgroundMaterialsBootcamp.swift in Sources */,
 				B223CAF12949C4280028EDB3 /*  ColorPickerBootcamp.swift in Sources */,
 				B255ECC22941D22300067198 /* StateBootcamp.swift in Sources */,
 				B2B7F2EC293F3DCC00BC1F3B /* GradientsBootcamp.swift in Sources */,
@@ -328,6 +338,7 @@
 				B255ECC62941DAD900067198 /* ExtractSubviewsBootcamp.swift in Sources */,
 				B26A249A294F376C003D49F7 /* EnvironmentObjectBootcamp.swift in Sources */,
 				B26A24A1294F4FD6003D49F7 /* OnboardingView.swift in Sources */,
+				B2866B352950882E0046CFE6 /* ButtonStylesBootcamp.swift in Sources */,
 				B2BFBC65294B06E600A3D613 /* TabViewBootcamp.swift in Sources */,
 				B26A249C294F47AF003D49F7 /* AppStorageBootcamp.swift in Sources */,
 				B2866B2D295079EE0046CFE6 /* ProfileView.swift in Sources */,
@@ -362,6 +373,7 @@
 				B22DC56E2949B7DD003058DC /* ToggleBootcamp.swift in Sources */,
 				B282385D2945C48C0012F25A /* AnimationTimingBootcamp.swift in Sources */,
 				B2B7F2F0293F466100BC1F3B /* ImageBootcamp.swift in Sources */,
+				B2866B33295086690046CFE6 /* TextSelectionBootcamp.swift in Sources */,
 				B28238612945D5550012F25A /* SheetsBootcamp.swift in Sources */,
 				B22DC5702949BCD8003058DC /* PickerBootcamp.swift in Sources */,
 				B28238572945B3DE0012F25A /* Training.swift in Sources */,
